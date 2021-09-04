@@ -1,12 +1,12 @@
-### Hello World 👋
+### 
+# Hello World 👋 Welcome!
 
-# Welcome!
 
 
 ## Sou Michele Coelho! 🚀
 :computer: Sou Front-End Developer Jr. !
 
-:house_with_garden: Moro no Brasil.
+:house_with_garden: Moro em Pernambuco/Brasil.
 
 #### As tecnologias que tenho estudado  📚
 
