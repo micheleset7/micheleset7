@@ -6,9 +6,9 @@
 ## I'm Michele Coelho! 🚀
 :computer: Developer Jr. !
 
-:house_with_garden: Moro em Pernambuco/Brasil.
+:house_with_garden: I live in Pernambuco/Brasil.
 
-#### As tecnologias que tenho estudado  📚
+#### Technology I study 📚
 
 <a href ="https://www.w3.org/html/" target="_blank">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logoColor=white" alt="html5"/>
@@ -32,7 +32,7 @@
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logoColor=white" alt="spring"/>
 	</a>
 
-#### where to find me
+#### Where to find me
 ###### Made with love ❤️ by Michele Coelho. Thank you for your visit. 👋 
 <a href ="https://www.linkedin.com/in/michele-coelho-5017aa79/" target="_blank">
 	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
