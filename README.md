@@ -32,7 +32,7 @@
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logoColor=white" alt="spring"/>
 	</a>
 	<a href ="https://nodejs.org/en/" target="_blank">
-	<img src="https://img.shields.io/badge/Node.js-E34F26?style=for-the-badge&logoColor=white" alt="nodeg"/>
+	<img src="https://img.shields.io/badge/Node.js-00b48a?style=for-the-badge&logoColor=white" alt="node"/>
 	</a>
 
 #### Where to find me
