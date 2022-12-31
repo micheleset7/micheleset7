@@ -23,13 +23,16 @@
 	<img src="https://img.shields.io/badge/React.js-6DB33F?style=for-the-badge&logoColor=white" alt="react.js"/>
 	</a>
 	<a href ="https://www.typescriptlang.org" target="_blank">
-	<img src="https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logoColor=white" alt="java"/>
+	<img src="https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logoColor=white" alt="typescript"/>
 	</a>
 	<a href ="https://www.java.com" target="_blank">
 	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white" alt="java"/>
 	</a>
 	<a href ="https://www.spring.io" target="_blank">
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logoColor=white" alt="spring"/>
+	</a>
+	<a href ="https://nodejs.org/en/" target="_blank">
+	<img src="https://img.shields.io/badge/Node.js-E34F26?style=for-the-badge&logoColor=white" alt="nodeg"/>
 	</a>
 
 #### Where to find me
