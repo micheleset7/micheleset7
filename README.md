@@ -3,8 +3,8 @@
 
 
 
-## Sou Michele Coelho! 🚀
-:computer: Sou Front-End Developer Jr. !
+## I'm Michele Coelho! 🚀
+:computer: Developer Jr. !
 
 :house_with_garden: Moro em Pernambuco/Brasil.
 
@@ -32,8 +32,8 @@
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logoColor=white" alt="spring"/>
 	</a>
 
-#### Onde me encontrar
-###### Feito com  ❤️ por Michele Coelho. Obrigada pela visita. 👋 
+#### where to find me
+###### Made with love ❤️ by Michele Coelho. Thank you for your visit. 👋 
 <a href ="https://www.linkedin.com/in/michele-coelho-5017aa79/" target="_blank">
 	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 	</a>
