@@ -3,8 +3,8 @@
 
 
 
-## I'm Michele Coelho! 🚀
-:computer: Developer Jr. !
+## I'm Michele Coelho! 
+:computer: Developer Jr. 🚀
 
 :house_with_garden: I live in Pernambuco/Brasil.
 
@@ -36,7 +36,7 @@
 	</a>
 
 #### Where to find me
-###### Made with love ❤️ by Michele Coelho. Thank you for your visit. 👋 
+
 <a href ="https://www.linkedin.com/in/michele-coelho-5017aa79/" target="_blank">
 	<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 	</a>
@@ -44,4 +44,7 @@
 	<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
 	</a>
 	
+	
+	
+###### Made with love ❤️ by Michele Coelho. Thank you for your visit. 👋 
 
